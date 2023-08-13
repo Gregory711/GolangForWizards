@@ -4,7 +4,7 @@
 
 I had been searching for the Order of Gophers for years. They were a group of wizards who were said to have mastered the ancient programming language Go. Go was created by the Google School of Magic, and it was said to be the most powerful programming language ever created. I had heard that the Order had created a magic tome that contained powerful spells written in Go. I was determined to find the tome and learn its secrets.
 
-One day, I came across a set of ruins that I had never seen before. The ruins were covered in strange runes that I could not understand. I began to investigate, and soon I found a hidden chamber. Inside the chamber, I found a magic tome. The cover of the tome was inscribed with the words "Order of Gophers". I opened the tome and began to read.
+One day, I came across a set of ruins that I had never seen before. The ruins were covered in strange runes that I could not understand. I began to investigate, and soon I found a hidden chamber. Inside the chamber, I found a magic tome. The cover of the tome was inscribed with the words "Golang for Wizards" and in smaller print underneath "Order of Gophers". I opened the tome and began to read.
 
 The spells in the tome were written in Go. I had never seen anything like it before. The spells were powerful and versatile, and they could be used to create all sorts of magical effects. I was amazed. I had finally found what I was looking for.
 
